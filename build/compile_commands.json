@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++  -I/root/test/./include -I/root/test/./ctp -g -fPIC -std=c++17 -Wall -Werror -lpthread -o CMakeFiles/catCTP.dir/test.cpp.o -c /root/test/test.cpp",
+  "file": "/root/test/test.cpp"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++  -I/root/test/./include -I/root/test/./ctp -g -fPIC -std=c++17 -Wall -Werror -lpthread -o CMakeFiles/catCTP.dir/src/Celue.cpp.o -c /root/test/src/Celue.cpp",
+  "file": "/root/test/src/Celue.cpp"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++  -I/root/test/./include -I/root/test/./ctp -g -fPIC -std=c++17 -Wall -Werror -lpthread -o CMakeFiles/catCTP.dir/src/Cunc.cpp.o -c /root/test/src/Cunc.cpp",
+  "file": "/root/test/src/Cunc.cpp"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++  -I/root/test/./include -I/root/test/./ctp -g -fPIC -std=c++17 -Wall -Werror -lpthread -o CMakeFiles/catCTP.dir/src/Fenk.cpp.o -c /root/test/src/Fenk.cpp",
+  "file": "/root/test/src/Fenk.cpp"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++  -I/root/test/./include -I/root/test/./ctp -g -fPIC -std=c++17 -Wall -Werror -lpthread -o CMakeFiles/catCTP.dir/src/MdSpi.cpp.o -c /root/test/src/MdSpi.cpp",
+  "file": "/root/test/src/MdSpi.cpp"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++  -I/root/test/./include -I/root/test/./ctp -g -fPIC -std=c++17 -Wall -Werror -lpthread -o CMakeFiles/catCTP.dir/src/TdSpi.cpp.o -c /root/test/src/TdSpi.cpp",
+  "file": "/root/test/src/TdSpi.cpp"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++  -I/root/test/./include -I/root/test/./ctp -g -fPIC -std=c++17 -Wall -Werror -lpthread -o CMakeFiles/catCTP.dir/src/Zhib.cpp.o -c /root/test/src/Zhib.cpp",
+  "file": "/root/test/src/Zhib.cpp"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++  -I/root/test/./include -I/root/test/./ctp -g -fPIC -std=c++17 -Wall -Werror -lpthread -o CMakeFiles/catCTP.dir/src/inifile.cpp.o -c /root/test/src/inifile.cpp",
+  "file": "/root/test/src/inifile.cpp"
+},
+{
+  "directory": "/root/test/build",
+  "command": "/usr/bin/g++  -I/root/test/./include -I/root/test/./ctp -g -fPIC -std=c++17 -Wall -Werror -lpthread -o CMakeFiles/catCTP.dir/src/mainThread.cpp.o -c /root/test/src/mainThread.cpp",
+  "file": "/root/test/src/mainThread.cpp"
+}
+]

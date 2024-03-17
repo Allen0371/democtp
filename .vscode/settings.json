@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.xml": "html",
+        "unordered_map": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "deque": "cpp",
+        "memory": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp",
+        "random": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
